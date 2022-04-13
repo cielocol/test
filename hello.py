@@ -11,4 +11,6 @@ b = n.array([5])
 c = a*b
 print(c)
 
+print(d)
+
 
